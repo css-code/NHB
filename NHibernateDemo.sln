@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26403.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NHibernateDemo", "NHibernateDemo\NHibernateDemo.csproj", "{5BCFD221-9054-4534-B74C-974A9B1EA99D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NHibernateWeb1", "NHibernateWeb1\NHibernateWeb1.csproj", "{FE334751-F6CB-49F7-999A-5B3E77BA1A5D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5BCFD221-9054-4534-B74C-974A9B1EA99D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5BCFD221-9054-4534-B74C-974A9B1EA99D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5BCFD221-9054-4534-B74C-974A9B1EA99D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5BCFD221-9054-4534-B74C-974A9B1EA99D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FE334751-F6CB-49F7-999A-5B3E77BA1A5D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE334751-F6CB-49F7-999A-5B3E77BA1A5D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE334751-F6CB-49F7-999A-5B3E77BA1A5D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE334751-F6CB-49F7-999A-5B3E77BA1A5D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

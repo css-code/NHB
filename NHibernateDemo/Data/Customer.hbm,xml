@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<hibernate-mapping xmlns="urn:nhibernate-mapping-2.2" assembly="DataTransfer" namespace="DataTransfer">
+ <class name="Customer" table="Customer">
+    <id name="ID" column="ID" type="Int32" unsaved-value="0">
+       <generator class="native"></generator>
+    </id>
+    <property name="FirstName" column="FirstName" type="string" length="50" not-null="false"></property>
+     <property name="LastName" column="LastName" type="string" length="50" not-null="false"></property>
+   </class>
+ </hibernate-mapping>
+a
